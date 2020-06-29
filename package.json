@@ -14,7 +14,7 @@
     "eslint": "^6.4.0",
     "eslint-plugin-jsdoc": "^15.9.5",
     "gulp": "^4.0.0",
-    "gulp-zip": "^5.0.0",
+    "gulp-zip": "^5.0.2",
     "jquery": "^3.4.1",
     "material-design-icons-iconfont": "^5.0.1"
   },
